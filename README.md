@@ -10,10 +10,14 @@ Enjoy our Social Media web application
 3. Error Handling and Feedback
    - Manage network request errors.
    - Provide messages for empty states or errors.
-4. CSS
+4. HTML
+   - Structured markup for posts, user profiles, comments, and navigation elements as well as a contact form
+      - The contact form should have field for "Name", "Email", "Send" button as well as a checkmark for "confirm to send
+5. CSS
    - Use a flexbox or grid for responsive layouts.
-5. JavaScript
+6. JavaScript
    - Fetch Post Data
    - Fetching Comments
+   - Displaying Comments
    - Fetching User Data
    - Linking Posts to User Profiles
